@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "../cache_session"
+		},
+		{
+			"path": "../system"
+		},
+		{
+			"path": "../temp"
+		}
+	]
+}
